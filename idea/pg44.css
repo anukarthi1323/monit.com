@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'poppins',scans-serif;
+}
+body{
+    background-color: #081b29;
+    color: #ededed;
+    display: flex;
+}
+.home-content{
+    max-width:600px;
+    margin-top: 100px;
+    
+}
+.home-content h1{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.home-content p{
+    font-size: 16px;
+}
